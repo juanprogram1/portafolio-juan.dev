@@ -1,27 +1,41 @@
-# 👨🏻‍💻 Porfolio para programadores y desarrolladores
+# 👨🏻‍💻 Porfolio Juanprogrammer 👨🏻‍💻
 
 <div align="center">
-<a href="https://porfolio.dev/">
-<img src="./public/porfolio.webp">
-</a>
-<p></p>
+  <img src="public/me.jpg" alt="Juan David" width="150"/>
+  <h2>Juan David</h2>
+  <p>Full Stack Developer | 21 años</p>
 </div>
 
-<div align="center">
+---
 
-![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
-![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
-![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
+## Sobre mí
 
-</div>
+¡Hola! Soy Juan David, desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Tengo experiencia en el desarrollo de aplicaciones web y móviles, utilizando tecnologías modernas tanto en el frontend como en el backend.
 
-## 🫂 Contribuidores
+## Propósito del portafolio
 
-<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
-</a>
+Este portafolio está diseñado para mostrar mis proyectos, habilidades y experiencia profesional a empresas interesadas en mi perfil. Aquí encontrarás ejemplos de mi trabajo, información sobre mi formación y formas de contactarme.
 
-<p></p>
+## Tecnologías principales
+
+- **JavaScript / TypeScript / Php / Java**
+- **React / Angular / Astro / Laravel**
+- **Node.js / Express / Spring Boot**
+- **MongoDB / MySQL / PostgreSQL**
+- **HTML / CSS / Tailwind / SASS**
+
+## Tecnologías secundarias
+
+- Bootstrap / linters / prettier / eslint / vite
+- Linux (ArchLinux, Ubuntu, Mint)
+- Git / npm / pnpm / composer / docker / kubernetes
+
+## Contacto
+
+- Email: anilloj62@gmail.com
+- LinkedIn: [linkedin.com/in/juandavid](https://www.linkedin.com/in/juan-david-carrillo-anillo-226747263/)
+- Phone Number: +57 3154287827
+
+---
+
+¡Gracias por visitar mi portafolio!
