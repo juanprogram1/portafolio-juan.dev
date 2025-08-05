@@ -1,9 +1,7 @@
-# 👨🏻‍💻 Porfolio Juanprogrammer 👨🏻‍💻
-
 <div align="center">
+ <h1>Desarrollador Web Full Stack</h1>
   <img src="public/me.jpg" alt="Juan David" width="150"/>
-  <h2>Juan David</h2>
-  <p>Full Stack Developer | 21 años</p>
+  <h2>Juan David Carrillo | 21 años</h2>
 </div>
 
 ---
