@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Desarrollador Web Full Stack</h1>
-  <img src="public/me.jpg" alt="Juan David" width="100"/>
+  <img src="public/me.jpg" alt="Juan David" width="120"/>
   <h2>Juan David Carrillo | 21 años</h2>
 </div>
 
